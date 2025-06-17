@@ -1,25 +1,16 @@
 {
   "name": "ammf3-core-docs",
   "version": "1.0.0",
-  "description": "Documentation for AMMF3-Core - Android Root Logger & File Watcher",
+  "description": "Documentation for AMMF3-Core project",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "deploy": "npm run build && gh-pages -d .vitepress/dist"
+    "deploy": "gh-pages -d .vitepress/dist"
   },
   "devDependencies": {
     "vitepress": "^1.0.0",
     "gh-pages": "^6.0.0"
-  },
-  "keywords": [
-    "android",
-    "logger",
-    "filewatcher",
-    "cpp",
-    "ndk",
-    "documentation"
-  ],
-  "author": "AMMF3-Core Team",
-  "license": "MIT"
+  }
 }
