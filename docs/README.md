@@ -40,8 +40,6 @@ npm install
 npm run dev
 ```
 
-访问 http://localhost:5173 (开发服务器启动后可用) 查看文档。
-
 ### 构建文档
 
 ```bash
