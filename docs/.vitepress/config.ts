@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'AMMF3-Core',
-  description: 'Android Root Logger & File Watcher - High-performance logging and file monitoring for Android root environment',
+  description: 'Advanced Multi-Modal Framework 3 Core - High-performance logging and file monitoring for Android',
   
   // 多语言配置
   locales: {
